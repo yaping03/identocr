@@ -1,0 +1,11 @@
+.ant-layout-sider-children {
+    width: 100%;
+    margin: 0 0 40px 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.ant-layout-sider-light .ant-layout-sider-trigger {
+    height: 40px;
+    background-color: #99c1d4;
+}

@@ -1,0 +1,53 @@
+.ant-table-title {
+    text-align: right;
+    padding: 0 0 5px 0;
+    margin: 0;
+}
+
+.ant-pagination {
+    text-align: right;
+}
+
+.ant-select {
+    width: 100%;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex:9;
+    display: flex;
+    flex-direction: row;
+}
+
+.right {
+    flex:9;
+    padding: 10px;
+}
+
+.split {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.tree {
+    flex:1;
+}
+
+.list {
+    flex:4;
+    padding: 0 15px;
+}
+
+.line {
+    width: 1px;
+    height: 100%;
+    background-color: #EFEFEF;
+}
